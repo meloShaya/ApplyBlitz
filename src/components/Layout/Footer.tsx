@@ -76,7 +76,7 @@ export function Footer() {
           aria-label="Built with Bolt.new"
         >
           <img
-            src="/public/logotext_poweredby_360w.png"
+            src="/logotext_poweredby_360w.png"
             alt="Built with Bolt.new"
             className="h-8 w-auto sm:h-10 md:h-12 opacity-80 hover:opacity-100 transition-opacity duration-200 drop-shadow-lg"
           />
